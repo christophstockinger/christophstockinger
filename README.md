@@ -14,5 +14,3 @@ Or visit my websites:
 💻 Business: [coding77.de](https://www.coding77.de/)
 
 ✌🏻 Private: [christophstockinger.de](https://christophstockinger.de/)
-
-<img style="width: 100%; height: auto; max-width: 300px;"  src="https://christophstockinger.de/assets/images/christoph-stockinger.jpg" alt="That's me!" />
