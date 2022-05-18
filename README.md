@@ -2,15 +2,15 @@
 
 ## I’m Christoph – a full stack web developer with focus for unique digital products and solving everyday problems
 
-I am open for new projects and challenges! 🚀 **Let's talk!**
+I am open for new projects and challenges! 
 
-🤓 Business inquiries: [info@c77.digital](mailto:info@c77.digital)
-
-🔜 Job inquiries: [cs@christophstockinger.de](mailto:cs@christophstockinger.de)
+Let's start something new together. We help with All Things Web. Say [hi@morethings.digital](mailto:hi@morethings.digital)
 
 <br><hr><br>
 Or visit my websites:
 
-💻 Business: [c77.digital](https://www.c77.digital/)
+💻 morethingsdigital GmbH: [morethings.digital](https://www.morethings.digital/)
+
+🚀 C77 Digital GmbH: [c77.digital](https://www.c77.digital/)
 
 ✌🏻 Private: [christophstockinger.de](https://christophstockinger.de/)
